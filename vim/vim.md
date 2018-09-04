@@ -28,3 +28,13 @@ shift-l: 화면 맨 아래로 커서 이동하기
 
 ### input모드에서 삭제시 라인넘어서까지 지워지게하기
 set bs=2
+
+### Find and replace
+#### Current Line
+:s/original/result/g
+
+#### All line
+:%s/original/result/g
+
+#### Range
+:5,12s/original/result/g
