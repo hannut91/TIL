@@ -16,3 +16,8 @@ $ go tool cover -html=coverage.out
 https://golang.org/pkg/testing
 https://blog.golang.org/cover
 
+## Go get
+```
+$ go get -t ./...
+```
+패키지가 테스를 실행하는데 필요한 패키지들을 다운로드 한다.
