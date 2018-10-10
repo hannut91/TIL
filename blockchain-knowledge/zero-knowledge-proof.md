@@ -16,17 +16,17 @@
 다음과 같은 방법으로 다른 사람에게 어떤 정보도 주지 않으면서 페기가 빅터에게 
 비밀문의 열쇠를 갖고 있다는 것을 증명할 수 있습니다.
 
-![image1](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Zkip_alibaba1.png/150px-Zkip_alibaba1.png)
+![image1](https://upload.wikimedia.org/wikipedia/commons/d/dd/Zkip_alibaba1.png)
 
 먼저 페기가 아무 통로나 골라 동굴로 들어갑니다. 이때 빅터는 페기가 어떤 통로로 
 들어갔는지 볼 수 없습니다. 
 
-![image2](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Zkip_alibaba1.png/150px-Zkip_alibaba2.png)
+![image2](https://upload.wikimedia.org/wikipedia/commons/d/dd/Zkip_alibaba2.png)
 
 그다음 빅터가 동굴 입구로 들어와 페기에게 A나 B 중 둘 
 중 아무거나 골라서 페기에게 그 방향으로 나오라고 말합니다. 
 
-![image3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Zkip_alibaba1.png/150px-Zkip_alibaba3.png)
+![image3](https://upload.wikimedia.org/wikipedia/commons/d/dd/Zkip_alibaba3.png)
 
 페기는 그 말을 듣고 빅터가 고른 통로로 나와야 합니다.  만약 페기가 비밀 문의 
 열쇠를 가지고 있다면 빅터가 어떤 통로를 고른다고 하더라도 페기는 어떤 통로를 
