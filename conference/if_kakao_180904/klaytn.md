@@ -83,3 +83,8 @@ Ensuring a RN serves read requests of clients
 
 ### Servicechain
 속도향상의 한계가 있기 때문에 병렬적인 확장이 필요함
+
+이더리움포크를 떠서 프로젝트를 시작했습니다.
+
+** 대납할 경우 공격에 대해서는 어떻게 대응 할 수 있나요?
+ddos공격을 막는방법과 같다.
