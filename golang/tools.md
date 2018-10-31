@@ -7,6 +7,12 @@
 $ go test -coverprofile=coverage.out
 ```
 
+* Ginkgo를 사용한다면 다음과 같이 입력합니다.
+
+```bash
+$ ginkgo -cover -coverprofile=coverage.out
+```
+
 다음과같이 입력하여 결과를 웹에서 확인한다.
 ```
 $ go tool cover -html=coverage.out
