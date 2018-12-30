@@ -16,9 +16,10 @@ cannot use dataSlice (type []int) as type []interface {} in assignment
 
 * `[]interface{}`는 인터페이스가 아닙니다.
 * `[]interface{}`는 각 element타입이 interface{}인 slice 입니다.
-* 각 `interface{}`은 두 단어를 가지고 있는데 하나는 포함 된 데이터의 타입을 
-  가리키고 다른 하나는 포함 된 데이터 혹은 포인터를 가지고 있습니다.
-* 그 결과 길이 N의 slice `[]interface{}`는 Nx2의 길이의 데이터를 가지고
+* 각 `interface{}`은 두 Word를 차지하는데,
+  Word 하나는 포함된 데이터의 타입을 표현하기 위해 쓰이고
+  다른 Word는 포함된 데이터 혹은 포인터를 위해 쓰입니다.
+* 그 결과 길이 N의 slice `[]interface{}`는 Nx2 Word 길이의 데이터를 가지고
   있습니다.
 * `[]int`는 길이 N의 slice `[]int`의 길이는 N * sizeof(int)의 길이만큼 데이터를
   가지고 있습니다.
