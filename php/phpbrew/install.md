@@ -2,7 +2,7 @@
 
 ## Requirement
 
-* `HomeBrew`를 이용하여 섫치를 한다면 다음과 같이 기본적으로 필요한
+* [`Homebrew`](https://brew.sh/)를 이용 중이라면 먼저 다음과 같이 기본적으로 필요한
   라이브러리들을 설치해야 합니다.
 
 ```bash
@@ -23,7 +23,7 @@ chmod +x phpbrew
 sudo mv phpbrew /usr/local/bin/phpbrew
 ```
 
-* 위와 같이 입력하여 설치를 합니다.
+* 위와 같이 입력하여 설치합니다.
 
 ## Setting
 
