@@ -8,7 +8,7 @@ PHP에서 표현식앞에 `@`문자가 있으면 표현식에서 발생하는 �
 `error_reporting()`을 호출할 수 있습니다.  
 만약 [track_errors](https://secure.php.net/manual/en/errorfunc.configuration.php#ini.track-errors)
 기능이 활성화 되어 있다면 표현식에 의해 어느 에러메세지가 발생하면
-`$php_errormsg`에 젖아될 것입니다. 이 변수는 각 에러에 의해 overwrite될 수 있기
+`$php_errormsg`에 저장될 것입니다. 이 변수는 각 에러에 의해 overwrite될 수 있기
 때문에 이것을 사용할려면 체크하고 사용하여야 합니다.
 
 ```php
