@@ -17,9 +17,7 @@ composer require --dev kahlan/kahlan
 
 ```php
 ├── spec
-│   └── ClassA.spec.php
-├── src
-│   └── ClassA.php
+    └── ClassA.spec.php
 ```
 
 * 위와 같이 파일을 만든 후 `ClassA.spec.php`를 수정합니다.
