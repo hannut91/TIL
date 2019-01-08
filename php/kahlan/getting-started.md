@@ -7,7 +7,7 @@
 
 ## 설치
 
-* `Composer`를 이용해 프로젝트에 `development dependency`를 이용해 설치합니다.
+* `Composer`를 이용해 프로젝트에 `development dependency`로 설치합니다.
 
 ```bash
 composer require --dev kahlan/kahlan
@@ -15,8 +15,38 @@ composer require --dev kahlan/kahlan
 
 ## 실행
 
+```php
+├── spec
+│   └── ClassA.spec.php
+├── src
+│   └── ClassA.php
+```
+
+* 위와 같이 파일을 만든 후 `ClassA.spec.php`를 수정합니다.
+
+```
+// ClassA.spec.php
+<?php
+
+describe("ToBe", function() {
+    describe("::match()", function() {
+        it("passes if true === true", function() {
+            expect(true)->toBe(true);
+        });
+    });
+});
+```
+
 ```bash
-./vendor/bin/kahlan
+$ ./vendor/bin/kahlan
+```
+
+* 기본으로 root폴더의 `spec`폴더를 기준으로 테스트파일을 찾아서 테스트합니다.
+  만약 특정 파일 혹은 다른 폴더를 지정해서 테스트하고 싶다면 다음과 같이
+  입력합니다.
+
+```bash
+./vendor/bin/kahlan --spec=yourDirectory
 ```
 
 ### 폴더 구조
