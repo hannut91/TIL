@@ -351,6 +351,17 @@ echo constant('namespacename\constname'), "\n"; // also prints namespaced
 ?>
 ```
 
+## Usting namespaces: Aliasing/Importing
+
+PHP는 세가지의 aliasing혹은 importing을 지원합니다.
+* 클래스 이름
+* 인터페이스 이름
+* 네임스페이스 이름
+
+PHP5.6+에서는 함수와 상수이름도 가능합니다.
+
+`use`오퍼레이터를 이용해서 aliasing을 할 수 있습니다.
+
 ## Sources
 
 * http://php.net/manual/en/language.namespaces.rationale.php
