@@ -14,6 +14,12 @@ Docker를 맥os에 설치하는 방법
 docker version
 ```
 
+* 혹은 Homebrew Cask를 이용해서 설치할 수 있습니다.
+
+```bash
+brew cask install docker
+```
+
 ## CLI
 
 ### Shell completion
