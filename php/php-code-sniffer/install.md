@@ -31,7 +31,7 @@ Time: 124ms; Memory: 6MB
 ```
 
 * `PHP Code Sniffer`는 자동으로 수정하는 기능까지 제공하는데 다음과 같이 실행할
-  수 있씁니다.
+  수 있습니다.
 
 ```bash
 $ ./vendor/bin/phpcbf src/ --standard=PSR2
