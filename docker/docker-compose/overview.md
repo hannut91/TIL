@@ -1,4 +1,4 @@
-# Docker Composer overview
+# Docker Compose overview
 
 Docker Compose에 대한 기초지식
 

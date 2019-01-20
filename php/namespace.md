@@ -1,4 +1,6 @@
-# namespace
+# PHP namespace
+
+PHP의 namespace 정리
 
 * 우리가 컴퓨터에서 파일을 관리할 때 한 폴더에 같은 이름의 파일을 만들려고 하면
   이름이 같아서 만들수가 없습니다.

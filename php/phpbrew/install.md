@@ -1,5 +1,7 @@
 # phpbrew install
 
+phpbrew 설치하기
+
 ## Requirement
 
 * [`Homebrew`](https://brew.sh/)를 이용 중이라면 먼저 다음과 같이 기본적으로 필요한

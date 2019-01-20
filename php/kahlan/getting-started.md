@@ -1,4 +1,6 @@
-# Getting Started
+# PHP kahlan으로 BDD-style 테스트하기
+
+PHP kahlan라이브러리로 BDD 스타일 테스트하는 방법
 
 ## 요구사항
 

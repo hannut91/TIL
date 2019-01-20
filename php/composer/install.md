@@ -1,5 +1,7 @@
 # Composer install
 
+PHP 패키지매니저 컴포저 설치하기
+
 ## wget으로 설치하기
 
 ```bash

@@ -1,4 +1,5 @@
 # Ginkgo
+
 BDD-style Go testing framework
 
 ## Getting started

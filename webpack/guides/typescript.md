@@ -1,4 +1,6 @@
-# TypeScript
+# Webpack TypeScript
+
+웹팩에서 타입스크립트 사용하기
 
 ## Basic Setup
 

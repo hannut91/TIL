@@ -1,16 +1,14 @@
-# Stash
+# Git Stash
 
-## Why
+Git에서 현재 작업내용 임시 저장하기
 
-현재 작업중인내용이 있었는데 잠시 다른 브렌치로 바꾸고 싶었는데 그때 사용 하였음
-
-### 현재 상태를 stash에 저장하기
+## stash에 저장하기
 
 ```
-$ git stash  
+$ git stash
 ```
 
-### stash 목록 불러오기
+## stash 목록 불러오기
 
 ```
 $ git stash list
@@ -21,4 +19,3 @@ $ git stash list
 ```
 $ git stash apply
 ```
-

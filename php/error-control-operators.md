@@ -1,5 +1,7 @@
 # Error Control Operators
 
+PHP의 error control operator
+
 PHP는 error control operator를 제공하는데 `@`연산자로 사용할 수 있습니다.
 PHP에서 표현식앞에 `@`문자가 있으면 표현식에서 발생하는 어떤 에러메세지든
 무시가 됩니다.  

@@ -1,4 +1,6 @@
-# InterfaceSlice
+# Golang InterfaceSlice
+
+golang에서 interface{}슬라이 사용할 떄 주의할 점
 
 ```go
 var dataSlice []int = []int{1, 2, 3}

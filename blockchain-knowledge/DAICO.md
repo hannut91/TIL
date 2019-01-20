@@ -1,5 +1,7 @@
 # DAICO
 
+새로운 토큰 세일 모델
+
 ## ICO (Initial Coin Offering)
 
 기업이 자체 암호화폐를 발행해 필요한 자금을 조달하는 방법
@@ -17,7 +19,7 @@ DAO(Decentralized Autonomous Organization)와 ICO를 합친 개념입니다. 비
 부테린이 투자자를 보호할 수 있는 방안으로 제안한 모델입니다. 특정 시간을 주기로
 인출할 수 있는 투자금에 제한을 두고, 인출이 필요한 경우 ICO프로젝트 팀에서 인출
 금액을 제시하고 투자자들이 투표를 통해서만 인출이 가능하도록 하는 모델입니다.
-그리고 투자자들은 ICO 프로젝트팀이 로드맵과 다르게 제대로 개발을 안하거나 문제가 
+그리고 투자자들은 ICO 프로젝트팀이 로드맵과 다르게 제대로 개발을 안하거나 문제가
 있다고 판단하면 Refund 를 제기해서, 투표를 통해 남은 자금을 가지고 있는 토큰 
 비율만큼 환불 받을 수 있는 기능 또한 제공되는 모델입니다.
 
@@ -45,5 +47,6 @@ ICO에 참여할 때 지불한 통화의 가치로 보장되는 ICO.
 종합적으로 낮추면 투자자들은 여전히 손실을 입을 위험이 있습니다.
 
 ## Source
-https://medium.com/returnvalues/ico-%EA%B0%9C%EC%84%A0-%EB%AA%A8%EB%8D%B8-daico-seico-e0a7faccfd4b
+
+* https://medium.com/returnvalues/ico-%EA%B0%9C%EC%84%A0-%EB%AA%A8%EB%8D%B8-daico-seico-e0a7faccfd4b
 https://bitcoinexchangeguide.com/seico-secured-ensured-ico-initial-coin-offering-investor-protection-model

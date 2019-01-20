@@ -1,4 +1,4 @@
-# include
+# PHP include
 
 현재 실행시키려 하는 PHP파일에서 다른 PHP파일을 포함시킬 때 사용하는 것
 

@@ -1,4 +1,7 @@
 # Git Auto-completion
+
+Git 자동완성 사용하기
+
 깃을 사용할 때 사용되는 커맨드들이나 branch이름들을 입력할 떄 Auto-Completion을
 이용하여 편리하게 사용할 수 있다. 
 
@@ -23,5 +26,6 @@ $ brew install git
 ```
 source  ~/.bashrc
 ```
-## See also
-https://git-scm.com/book/ko/v1/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-%ED%8C%81%EA%B3%BC-%ED%8A%B8%EB%A6%AD
+## Sources
+
+* https://git-scm.com/book/ko/v1/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-%ED%8C%81%EA%B3%BC-%ED%8A%B8%EB%A6%AD

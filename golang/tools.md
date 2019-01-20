@@ -1,7 +1,11 @@
 # Go tools
 
+Golang에서 지원하는 도구들 사용하기
+
 ## Test
+
 ### Coverage 파일을 HTML로 확인하기
+
 다음과같이 입력하여 Coverage결과를 저장한다.
 ```
 $ go test -coverprofile=coverage.out

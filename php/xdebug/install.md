@@ -1,4 +1,6 @@
-# Xdebug
+# Xdebug 설치
+
+Xdebug 설치하기
 
 * 디버깅과 개발을 돕는 PHP 확장 라이브러리입니다.
 * IDE와 함께 사용하기 위해 [single step debugger](https://xdebug.org/docs/remote)를 포합합니다.

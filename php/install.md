@@ -1,4 +1,6 @@
-# PHP Install
+# PHP install
+
+PHP 설치하기
 
 ```bash
 $ brew install php
