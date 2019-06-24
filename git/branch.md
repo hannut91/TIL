@@ -45,3 +45,9 @@ git branch -d $(git branch --merged | master)
 git push <remote-name> :<branch-name>
 ```
 
+### 현재 변경사항을 그대로 다른 브렌치로 옮기고 싶을 때
+
+```bash
+$ git checkout -b <branch> --track <remote>/<branch>
+```
+

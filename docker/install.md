@@ -20,6 +20,15 @@ docker version
 brew cask install docker
 ```
 
+### Amazon AMI 2
+
+```bash
+sudo yum update -y
+sudo yum install -y docker
+sudo service docker start
+sudo usermod -a -G docker ec2-user
+```
+
 ## CLI
 
 ### Shell completion
