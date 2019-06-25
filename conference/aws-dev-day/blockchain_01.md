@@ -1,4 +1,6 @@
-# Blockchain on AWS
+# 2018.11.06 Blockchain on AWS
+
+AWS 기반 블록체인 - 블록체인 환경 구성하기
 
 ## 블럭체인 개발시 고려할 사항들
 

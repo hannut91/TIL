@@ -1,6 +1,8 @@
-# elastic beanstalk
+# 2018.11.06 Elastic beanstalk
 
-## version update 방법
+AWS Dev day AWS Elastic Beanstalk 활용하여 수 분만에 코드 배포하기 정리
+
+## Version update 방법
 
 * all at once
   * 한번에 업데이트
